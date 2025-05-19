@@ -29,6 +29,7 @@ A Python-based web app that transcribes audio files (`.wav`) into text using Fac
 
 
 ## Output
+![Image](https://github.com/user-attachments/assets/e2a8db06-efff-4fee-a81c-aba58cdada55)
 
 ## Installation
 ```bash
