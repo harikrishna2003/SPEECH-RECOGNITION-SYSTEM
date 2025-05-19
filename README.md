@@ -1,4 +1,4 @@
-# � Speech-to-Text Transcription with Wav2Vec2
+#  Speech-to-Text Transcription with Wav2Vec2
 
 A Python-based web app that transcribes audio files (`.wav`) into text using Facebook's Wav2Vec2 model. Built with Streamlit for seamless deployment.
 
