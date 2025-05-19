@@ -27,6 +27,9 @@ A Python-based web app that transcribes audio files (`.wav`) into text using Fac
 4. **UI**:  
    Users upload files and receive transcriptions instantly.
 
+
+## Output
+
 ## Installation
 ```bash
 git clone https://github.com/yourusername/speech-to-text-app.git
